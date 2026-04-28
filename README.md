@@ -1,2 +1,2 @@
 # IncidenciasE4
-Registro de incidencias para el sistema Papeleria del equipo 5
+Registro de incidencias para el sistema Papeleria "GO-mi" del equipo 5
